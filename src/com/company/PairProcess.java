@@ -26,5 +26,7 @@ public class PairProcess {
         else {
                 System.out.println("sum: " + sum);
         }
+        System.out.println("Product: "+ product);
+        System.out.println( "Average: "+ avg);
     }
 }
